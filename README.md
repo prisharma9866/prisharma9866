@@ -8,7 +8,8 @@
 
 my cv 
 
-![Screenshot (76)](https://github.com/user-attachments/assets/771ee92e-467b-4b65-bf97-4e515d48681d)
+![Screenshot (77)](https://github.com/user-attachments/assets/35b7f2d7-7da9-4cfa-a593-cdd042a02730)
+
 
 <!---
 prisharma9866/prisharma9866 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
